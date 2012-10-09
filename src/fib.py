@@ -6,4 +6,4 @@ def fib(n):
         print "that's the end"
         return 1
         
-fib(20)
+print(fib(5))
